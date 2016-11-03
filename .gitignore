@@ -1,0 +1,4 @@
+# ignore default binaries whether on WINDOWS or *NIX
+
+*.out
+*.exe
